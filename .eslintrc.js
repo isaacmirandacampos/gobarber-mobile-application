@@ -4,7 +4,7 @@ module.exports = {
     es6: true,
     jest: true,
   },
-  extends: ['prettier', 'airbnb', 'prettier/react'],
+  //extends: ['prettier', 'airbnb', 'prettier/react'],
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly',
